@@ -128,3 +128,13 @@ Pipfile
 .DS_Store
 test_failures.txt
 tests/data/test_run_*.txt
+
+# TLS material
+certs/
+tls/
+ssl/
+*.pem
+*.key
+*.crt
+*.p12
+*.pfx
